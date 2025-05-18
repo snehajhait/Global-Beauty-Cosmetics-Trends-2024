@@ -4,7 +4,7 @@
 A data-driven analysis and interactive dashboard project uncovering global beauty and cosmetics trends using Python and Power BI.
 
 ## 📊 Project Overview
-This project aims to explore worldwide trends in beauty and cosmetic product usage using the dataset **“Top Beauty & Cosmetics Worldwide 2024”**. The project involves both in-depth Python analysis and advanced visual storytelling using Power BI.
+This project explores worldwide beauty and cosmetic product usage trends using the dataset **“Top Beauty & Cosmetics Worldwide 2024. The project involves both in-depth Python analysis and advanced visual storytelling using Power BI.
 
 ## 🔧 Tools & Technologies Used
 - Python (Pandas, Matplotlib, Seaborn)
@@ -64,3 +64,18 @@ Includes an 8-slide PPT with:
 ## 🙌 Acknowledgment
 Special thanks to all open-source contributors and online datasets that enabled this study.
 
+## 📷 Screenshots
+
+> Including screenshots of the dashboards in the repository 
+
+
+## 📄 Author
+
+**Sneha Jha**  
+*Data Analyst | Power BI Developer*  
+https://www.linkedin.com/in/sneha-jha-it | snehajhait@gmail.com
+
+
+## 🙋‍♂️ Questions or Feedback?
+
+Feel free to raise an issue or contact me for suggestions and improvements!
